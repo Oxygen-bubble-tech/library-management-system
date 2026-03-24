@@ -1,0 +1,37 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name":"John",
+            "surname":"Doe",
+            "email":"john@gmail.com",
+            "issuedBook":"1",
+            "issuedDate":"04/02/2026",
+            "returnDate":"08/02/2026",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"06/01/2026"
+        },
+        {
+            "id":"2",
+            "name":"katy",
+            "surname":"Doe",
+            "email":"john@gmail.com",
+            "issuedBook":"1",
+            "issuedDate":"04/02/2026",
+            "returnDate":"08/02/2026",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"06/01/2026"
+        },
+        {
+            "id":"3",
+            "name":"Rani",
+            "surname":"Doe",
+            "email":"john@gmail.com",
+            "issuedBook":"1",
+            "issuedDate":"04/02/2026",
+            "returnDate":"08/02/2026",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"06/01/2026"
+        }
+    ]
+}

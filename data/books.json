@@ -1,0 +1,25 @@
+{
+    "books": [
+        {
+            "id":"1",
+            "name":"The Hobbit",
+            "author":"Fantasy",
+            "price":"12.99",
+            "publisher":"Hougton Mifflin"
+        },
+        {
+            "id":"2",
+            "name":"The Hobbit",
+            "author":"Fantasy",
+            "price":"12.99",
+            "publisher":"Hougton Mifflin"
+        },
+        {
+            "id":"3",
+            "name":"The Hobbit",
+            "author":"Fantasy",
+            "price":"12.99",
+            "publisher":"Hougton Mifflin"
+        }
+    ]
+}
